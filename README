@@ -21,7 +21,9 @@ This Python script is designed to automatically scrape user reviews from multipl
   ```
 
 ## Input Format
-The input Excel file (`Updated_List_APK.xlsx`) must contain the following columns:
+The input Excel file (`Updated_List_APK.xlsx`) was manually compiled from each of the website pages on November 5, 2025. 
+You can use your new list if you want to update it.
+The input file must contain the following columns:
 - `Alamat APK  Android (com.xxx.xx)` — the package name of the Android app (required)
 - `Nama Platform` — the name of the platform (optional but recommended)
 
