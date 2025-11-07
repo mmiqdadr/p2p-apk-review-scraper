@@ -47,10 +47,10 @@ Each review includes the following columns:
 - `version`
 
 ## How to Run
-1. Place `run2.py` and `Updated_List_APK.xlsx` in the same folder.
+1. Place `main.py` and `Updated_List_APK.xlsx` in the same folder.
 2. Open a terminal and run:
    ```bash
-   python run2.py
+   python main.py
    ```
 3. The output file `reviews_all_apk.xlsx` will be created in the same folder.
 
