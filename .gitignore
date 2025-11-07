@@ -1,0 +1,15 @@
+# ==== Python cache files ====
+__pycache__/
+*.pyc
+
+# ==== Virtual environment ====
+venv/
+.env
+
+# ==== Output Excel besar ====
+*.xlsx
+!Updated_List_APK.xlsx   # tetap izinkan template ini masuk repo
+
+# ==== Editor / IDE ====
+.idea/
+.vscode/
